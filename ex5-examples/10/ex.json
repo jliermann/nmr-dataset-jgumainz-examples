@@ -5,7 +5,7 @@
             "source": {
                 "original": [],
                 "jcamp": null,
-                "jcampURL": "./135-02-4/1h.dx"
+                "jcampURL": "./1h.dx"
             },
             "display": {
                 "name": "1h",
@@ -20,7 +20,7 @@
             "source": {
                 "original": [],
                 "jcamp": null,
-                "jcampURL": "./135-02-4/13c.dx"
+                "jcampURL": "./13c.dx"
             },
             "display": {
                 "name": "13c",
