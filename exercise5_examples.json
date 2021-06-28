@@ -1,6 +1,7 @@
 [
     {
         "groupName": "Übungsblatt 5",
+        "selected": true,
         "children": [
             {
                 "file": "10/ex.json",
