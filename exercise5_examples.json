@@ -3,32 +3,32 @@
         "groupName": "Übungsblatt 5",
         "children": [
             {
-                "file": "./10/ex.json",
+                "file": "10/ex.json",
                 "title": "Aufgabe 1a - o-Anisaldehyd",
                 "view": "View"
             },
             {
-                "file": "./20/ex.json",
+                "file": "20/ex.json",
                 "title": "Aufgabe 1b - Cyclohexenoxid",
                 "view": "View"
             },
             {
-                "file": "./30/ex.json",
+                "file": "30/ex.json",
                 "title": "Aufgabe 1c - 2-Brombutan",
                 "view": "View"
             },
             {
-                "file": "./40/ex.json",
+                "file": "40/ex.json",
                 "title": "Aufgabe 1d - Valinol",
                 "view": "View"
             },
             {
-                "file": "./50/ex.json",
+                "file": "50/ex.json",
                 "title": "Aufgabe 1e - Citronensäure",
                 "view": "View"
             },
             {
-                "file": "./60/ex.json",
+                "file": "60/ex.json",
                 "title": "Aufgabe 1f - Biphenyl",
                 "view": "View"
             }
