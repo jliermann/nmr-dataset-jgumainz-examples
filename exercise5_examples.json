@@ -1,0 +1,37 @@
+[
+    {
+        "groupName": "Übungsblatt 5",
+        "children": [
+            {
+                "file": "./misc/135-02-4/ex.json",
+                "title": "Aufgabe 1: a. o-Anisaldehyd",
+                "view": "View"
+            },
+            {
+                "file": "./misc/286-20-4/ex.json",
+                "title": "Aufgabe 1: b. Cyclohexenoxid",
+                "view": "View"
+            },
+            {
+                "file": "./misc/78-76-2/ex.json",
+                "title": "Aufgabe 1: c. 2-Brombutan",
+                "view": "View"
+            },
+            {
+                "file": "./misc/2026-48-4/ex.json",
+                "title": "Aufgabe 1: d. Valinol",
+                "view": "View"
+            },
+            {
+                "file": "./misc/77-92-2/ex.json",
+                "title": "Aufgabe 1: e. Citronensäure",
+                "view": "View"
+            },
+            {
+                "file": "./misc/92-52-4/ex.json",
+                "title": "Aufgabe 1: f. Biphenyl",
+                "view": "View"
+            }
+        ]
+    }
+]
