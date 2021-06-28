@@ -1,11 +1,11 @@
 [
     {
         "groupName": "Übungsblatt 5",
-        "selected": true,
         "children": [
             {
                 "file": "10/ex.json",
                 "title": "Aufgabe 1a - o-Anisaldehyd",
+                "selected": true,
                 "view": "View"
             },
             {
